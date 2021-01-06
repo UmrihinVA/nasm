@@ -1,4 +1,2 @@
-# nasm
-nasm trash
-make;
-./fib 123;
+# nasm trash
+usage: ./fib number
